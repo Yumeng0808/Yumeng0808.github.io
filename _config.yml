@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "file:///Users/mac/Dropbox/Mac/Desktop/headshot/WechatIMG1959.jpg"
   name             : "Yumeng Du"
   pronouns         : "she/her"  
   bio              : "Health Economics Researcher"
